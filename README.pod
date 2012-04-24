@@ -1,0 +1,5 @@
+=head1 README
+
+The latest stable release(s) are available from http://code.google.com/p/maltego/downloads/list?can=3&q=Twitter
+
+Please refer to the https://github.com/cmlh/Maltego-Twitter/wiki for further information.
